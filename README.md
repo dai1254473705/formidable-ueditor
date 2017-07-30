@@ -1,2 +1,2 @@
 # formidable-ueditor
-node配合formidable上传文件到临时目录并上传到服务器，成功后清除缓存文件
+node配合formidable上传文件到临时目录并上传到oss服务器，成功后清除缓存文件
